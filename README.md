@@ -27,7 +27,7 @@ Traditional relational databases (RDBMS) store data as simple rows and columns, 
 | 15 | Object Identity — Referencing Objects with `REF ... SCOPE` (system-generated vs. user-generated) |
 | 16 | ORDBMS vs. OODBMS — quick comparison table |
 | 17 | Summary & Key Terms — takeaways and glossary (ADT, UDT, BLOB/CLOB, REF, SCOPE) |
-| 18 | Thank You |
+
 
 #  Audience
 
